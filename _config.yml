@@ -1,15 +1,13 @@
 title: Prisoner Problems # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-
-<img src="https://i.gifer.com/EfO.gif" width="40" height="40" />
-
+  #<img src="https://i.gifer.com/EfO.gif" width="40" height="40" />
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Consider these prisoner problems ... 
   <br><br>
   How to solve the challenges ....
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-150362608-1  # your Google Analytics tracking ID here
